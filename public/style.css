@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#bingoCardContainer {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.bingo-cell {
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5em;
+    background-color: white;
+}
